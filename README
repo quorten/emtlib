@@ -1,5 +1,10 @@
 emtlib README
-************
+=============
+
+PLEASE NOTE: `emtlib` has largely since been repurposed as a
+subproject of `quorten-bpc`.  Nevertheless, there are a few parts that
+haven't been migrated, so the source code of the original release
+tarball is included here for posterity.
 
 emtlib is a library of POSIX and GLib routines designed to help you
 port code to small embedded systems and obsolete computers.  emtlib is
